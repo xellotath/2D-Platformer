@@ -11,6 +11,8 @@ This repository contains a simple 2D platformer game, called destined to crumble
 - Basic player movement and jumping
 - Platformer physics
 - Unity project structure
+- Enemies and player health
+- God Mode
 
 ## Getting Started
 
